@@ -1,0 +1,7 @@
+-- LINK PARA INGRESAR A BASE DE DATOS EN FIREBASE --
+https://console.firebase.google.com/u/0/project/autodoc-1/firestore/databases/-default-/data/~2FchatbotConversations~2F9iXcr0tbhqFHDTlKB80y
+
+-- DATOS PARA INGRESAR -- 
+
+Cuanta FIREBASE ADMIN: autodocsu2024@gmail.com
+contraseña: Subaru2019
